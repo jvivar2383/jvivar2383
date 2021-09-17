@@ -13,4 +13,5 @@ Projects I am currently working on include:
 
 
 You can also find me at:
+email: jvivar000@citymail.cuny.edu or jenifervivar@icloud.com
 LinkedIn: https://www.linkedin.com/in/jenifer-vivar-8197bb146
