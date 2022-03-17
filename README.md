@@ -8,8 +8,8 @@ As a former research scientist, I've found that exploratory analysis and using t
 Projects I am currently working on include:
 
 - Mixing Layer Height and its Effects on Pollutants during NYC's Heat Wave event.
--Algorithm Optimization to Accurately measure Mixing Layer Height Levels using Doppler Lidar Technology.
--Community College Learning outcomes in The Bronx.
+- Algorithm Optimization to Accurately measure Mixing Layer Height Levels using Doppler Lidar Technology.
+- Community College Learning outcomes in The Bronx.
 
 
 You can also find me at:
