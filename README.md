@@ -1,7 +1,7 @@
 Hi there!
 My name is Jenifer Vivar.
 
-I graduated with a bachelor's degree in applied mathematics and I'm currently working towards a Master's degree in data science. I am interested in telling stories using data. I spend my time learning new topics about machine learning and applying my knowledge to different projects that will soon be posted on my page.
+I hold a bachelor's degree in applied mathematics, and I recently earned my Master's degree in data science. I am interested in telling stories using data. I spend my time learning new topics about machine learning and applying my knowledge to different projects that will soon be posted on my page.
 
 As a former research scientist, I've found that exploratory analysis and using the data to build a narrative are the most exciting aspects of data science.
 
@@ -9,7 +9,7 @@ Projects I am currently working on include:
 
 - Mixing Layer Height and its Effects on Pollutants during NYC's Heat Wave event.
 - Algorithm Optimization to Accurately measure Mixing Layer Height Levels using Doppler Lidar Technology.
-- Community College Learning outcomes in The Bronx.
+
 
 
 You can also find me at:
